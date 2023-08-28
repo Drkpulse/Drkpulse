@@ -39,4 +39,4 @@ if name == 'main':
 <div align="center">
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
-💜 [![](https://visitcount.itsvg.in/api?id=drkpulse&icon=6&color=11)](https://github.com/Drkpulse)
+💜
