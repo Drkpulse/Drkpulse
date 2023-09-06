@@ -20,9 +20,9 @@ class Beirao():
 
   def init(self):
     self.name = "José Beirão";
-    self.username = "drkpulse";
-    self.location = "Portugal";
-    self.X = "@";
+    self.username = "Beirão";
+    self.gamertag = "Drkpulse"
+    self.location = "Portugal"
     self.web = "https://drkpulse.com/";
 
   def str(self):
