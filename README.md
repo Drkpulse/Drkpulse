@@ -22,7 +22,7 @@ class Beirao():
     self.name = "José Beirão";
     self.username = "drkpulse";
     self.location = "Portugal";
-    self.twitter = "@abhigyantrips";
+    self.X = "@";
     self.web = "https://drkpulse.com/";
 
   def str(self):
