@@ -9,7 +9,7 @@
 📎 Currently learning @42Porto; 🤯 <br>
 😶‍🌫️ Fluent in Profanity; <br>
 ☕ No Coffee, 🍫 No Chocolate, 😴 No Code; <br>
-💡 Fact I 💜 Rubber Ducks
+💡 **Fact** ⚡ I 💜 Rubber Ducks
 <br>
 <br>
 
