@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 🍪 Still a *noob*grammer, striving to be a **pro**grammer; <br>
-📎 Currently learning @42Porto; 🤯 <br>
+📎 I'm currently a student @42Porto; 🤯 <br>
 😶‍🌫️ Fluent in Profanity; <br>
 ☕ No Coffee, 🍫 No Chocolate, 😴 No Code; <br>
 💡 **Fact** ⚡ I 💜 Rubber Ducks
