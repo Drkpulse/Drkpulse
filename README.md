@@ -3,7 +3,6 @@
     <summary><h1 style="display: inline-block">Hi, I'm José Beirão  </h1>  <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></summary>
   </ul>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 🍪 Still a *noob*grammer, striving to be a **pro**grammer; <br>
 📎 Currently a student [@42Porto](https://www.42porto.com/en/); 🤯 <br>
