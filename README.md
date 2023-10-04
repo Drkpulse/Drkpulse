@@ -6,10 +6,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 🍪 Still a *noob*grammer, striving to be a **pro**grammer; <br>
-📎 I'm currently a student @42Porto; 🤯 <br>
+📎 Currently a student [@42Porto](https://www.42porto.com/en/); 🤯 <br>
 😶‍🌫️ Fluent in Profanity; <br>
-☕ No Coffee, 🍫 No Chocolate, 😴 No Code; <br>
-💡 **Fact** ⚡ I 💜 Rubber Ducks
+🧑🏻‍💻 Coding to achieve 🔒 Cybersecurity; <br>
+**☕ No Coffee, 🍫 No Chocolate, 😴 No Code;** <br>
+💡 **Fact** ⚡ I 💜 Rubber Ducks;
 <br>
 <br>
 
@@ -31,6 +32,19 @@ class Beirao():
 if name == 'main':
     me = Beirao()
 ```
+<p align="center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=drkpulse&color=blueviolet">
+  </a>
+  <a href='https://www.linkedin.com/in/zebeirao/' target="_blank">
+    <img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+  </a>
+  <a href='https://profile.intra.42.fr/users/joseferr' target="_blank">
+    <img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
+  </a>
+
+</p>
+
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Some other languages;</b>
 <br>
 <br>
@@ -39,4 +53,6 @@ if name == 'main':
 <div align="center">
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
+
+![](https://hit.yhype.me/github/profile?user_id=21298379)
 💜
