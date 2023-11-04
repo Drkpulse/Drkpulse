@@ -31,7 +31,10 @@ class Beirao():
 if name == 'main':
     me = Beirao()
 ```
+
 <p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=drkpulse&theme=shadow-purple&hide_border=true&mode=weekly&exclude_days=Sun%2CSat&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <br>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=drkpulse&color=blueviolet">
   </a>
