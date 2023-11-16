@@ -23,7 +23,7 @@ class Beirao():
     self.username = "Beirão";
     self.gamertag = "Drkpulse"
     self.location = "Portugal"
-    self.web = "https://drkpulse.com/";
+    self.web = "https://zbeirao.com/";
 
   def str(self):
     return self.name
